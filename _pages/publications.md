@@ -10,4 +10,6 @@ author_profile: true
 
 * R. Spencer Hallyburton, **Yupei Liu**, Yulong Cao, Z. Morley Mao, and Miroslav Pajic. "[Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles](https://arxiv.org/pdf/2106.07098.pdf)". In *USENIX Security Symposium*, 2022.
 
-* Jinyuan Jia\*, **Yupei Liu\***, and Neil Zhenqiang Gong.  "[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/jjy1994/BadEncoder)
+* Jinyuan Jia\*, **Yupei Liu\***, and Neil Zhenqiang Gong.  "[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2022.  [<span style="color:red">[code]</span>](https://github.com/jjy1994/BadEncoder)
+
+\*Equal contribution
