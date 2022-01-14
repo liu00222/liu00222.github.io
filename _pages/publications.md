@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+* Jinyuan Jia, **Yupei Liu**, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks](https://arxiv.org/pdf/2012.03765.pdf)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2022.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* R. Spencer Hallyburton, **Yupei Liu**, Yulong Cao, Z. Morley Mao, and Miroslav Pajic. "[Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles](https://arxiv.org/pdf/2106.07098.pdf)". In *USENIX Security Symposium*, 2022.
+
+* Jinyuan Jia\*, **Yupei Liu\***, and Neil Zhenqiang Gong.  "[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/jjy1994/BadEncoder)
