@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yupei Liu"
 title_separator          : "-"
 name                     : &name "Yupei Liu"
-description              : &description "Master Student in CS at Duke University"
+description              : &description "Master Student in Computer Science at Duke University"
 url                      : https://liu00222.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liu00222.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yupei Liu"
   avatar           : "IMG_0881.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Master Student in Computer Science at Duke University"
   location         : "Durham, NC"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
