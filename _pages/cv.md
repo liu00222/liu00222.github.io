@@ -11,11 +11,8 @@ Education
 ======
 * M.S. in Computer Science, Duke University, 2020 - 2022 (expected)
   * Advisor: Prof. Neil Zhenqiang Gong
-  * GPA: 3.96
-  * Main Courses: Stochastic Process, ML in Adversarial Setting, Edge Computing, Cryptocurrency & Cryptography, Cloud-based Security
-* B.S. in Statistics and B.A. in Computer Science, University of Minnesota, Twin Cities, 2017 - 2020
-  * GPA: 4.0
-  * Main Courses: ML, Applied Stats., Statistical Learning, Multivariate Methods, Adv. Algorithms, OS, Computer Architecture, Program Design, Statistical Theory
+* B.A. in Computer Science, University of Minnesota, Twin Cities, 2017 - 2020
+* B.S. in Statistics, University of Minnesota, Twin Cities, 2017 - 2020
 
 Professional Service
 ======
