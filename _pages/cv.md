@@ -12,7 +12,7 @@ Education
 * M.S. in Computer Science, Duke University, 2020 - 2022 (expected)
   * Advisor: Prof. Neil Zhenqiang Gong
 * B.A. in Computer Science, University of Minnesota, Twin Cities, 2017 - 2020
-* B.S. in Statistics, University of Minnesota, Twin Cities, 2017 - 2020
+* B.S. in Statistical Science, University of Minnesota, Twin Cities, 2017 - 2020
 
 Professional Service
 ======
