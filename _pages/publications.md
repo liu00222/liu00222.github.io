@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+* **Yupei Liu**, Jinyuan Jia, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders](https://arxiv.org/pdf/2201.05889.pdf)". *arXiv preprint arXiv:2201.05889*, 2022.
+
 * Jinyuan Jia, **Yupei Liu**, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks](https://arxiv.org/pdf/2012.03765.pdf)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2022.
 
 * R. Spencer Hallyburton, **Yupei Liu**, Yulong Cao, Z. Morley Mao, and Miroslav Pajic. "[Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles](https://arxiv.org/pdf/2106.07098.pdf)". In *USENIX Security Symposium*, 2022.
