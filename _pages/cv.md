@@ -16,7 +16,7 @@ Education
 Professional Service
 ======
 * External Reviewer
-  * IEEE Robotics and Automation Letters (IEEE RA-L), 2020
+  * IEEE Robotics and Automation Letters (IEEE RA-L), 2021
 
 Awards
 ======
