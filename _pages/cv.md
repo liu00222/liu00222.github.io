@@ -8,7 +8,8 @@ author_profile: true
 Education
 ======
 * M.S. in Computer Science, Duke University, 2020 - 2022 (expected)
-  * Advisor: Prof. Neil Zhenqiang Gong
+  * Research Project: [StolenEncoder: Stealing Pre-trained Encoders](https://arxiv.org/pdf/2201.05889.pdf)
+  * Committee Members: Neil Zhenqiang Gong (Chair), Miroslav Pajic, Xiaowei Yang
 * B.A. in Computer Science, University of Minnesota, Twin Cities, 2017 - 2020
 * B.S. in Statistical Science, University of Minnesota, Twin Cities, 2017 - 2020
 
