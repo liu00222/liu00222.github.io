@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**Yupei Liu**, Jinyuan Jia, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders](https://arxiv.org/pdf/2201.05889.pdf)". *arXiv preprint arXiv:2201.05889*, 2022.
+**Yupei Liu**, Jinyuan Jia, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders](https://arxiv.org/pdf/2201.05889.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2022.
 
 
 Jinyuan Jia, **Yupei Liu**, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks](https://www.aaai.org/AAAI22Papers/AAAI-3833.JiaJ.pdf)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2022.
