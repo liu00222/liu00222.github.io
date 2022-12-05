@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at [MathWorks](https://www.mathworks.com/) Engineering Development Group in Boston, MA. 
+I am a Software Engineer at [MathWorks](https://www.mathworks.com/) Security Engineering Group in Boston, MA. 
 
 I received the M.S. in Computer Science from Duke University in 2022. My advisor is [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) and I worked closely with [Jinyuan Jia](https://jinyuan-jia.github.io/) in Neil Gong's Research Group on projects of machine learning in the adversarial setting. I also worked in Cyber-Physical Systems Lab supervised by [Miroslav Pajic](https://people.duke.edu/~mp275/) in the topic of autonomous vehicles security. In 2021, I received the Dean's Research Award for Master's students. 
 
