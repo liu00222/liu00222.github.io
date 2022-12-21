@@ -22,7 +22,7 @@ Awards
   
 Skills
 ======
-* Python (Pytorch), Java, C/C++
+* C/C++, Python (Pytorch), Java, OpenSSL
   
 Teaching
 ======
