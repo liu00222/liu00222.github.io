@@ -13,12 +13,6 @@ Education
 * B.A. in Computer Science, University of Minnesota, Twin Cities, 2017 - 2020
 * B.S. in Statistical Science, University of Minnesota, Twin Cities, 2017 - 2020
 
-Professional Service
-======
-* External Reviewer
-  * IEEE Robotics and Automation Letters (IEEE RA-L), 2023
-  * IEEE Robotics and Automation Letters (IEEE RA-L), 2021
-
 Awards
 ======
 * Dean's Research Award (Duke University, 2021)
