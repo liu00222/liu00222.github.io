@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Jinyuan Jia\*, **Yupei Liu\***, Yuepeng Hu, and Neil Zhenqiang Gong. "PORE: Provably Robust Recommender Systems against Data Poisoning Attacks". In *USENIX Security Symposium*, 2023.
+
 
 **Yupei Liu**, Jinyuan Jia, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning](https://arxiv.org/pdf/2201.05889.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2022.
 
