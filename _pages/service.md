@@ -7,12 +7,11 @@ author_profile: true
 
 Professional Service
 ======
+* Program Committee member:
+  * AAAI Conference on Artificial Intelligence, 2024
+ 
 * External Reviewer
-  * ICCV, 2023
-  * CVPR, 2023
-  * IEEE RA-L, 2023
-  * CVPR, 2022
-  * AAAI, 2022
-  * NeurIPS, 2022
-  * IEEE RA-L, 2021
+  * International Conference on Computer Vision (ICCV), 2023
+  * IEEE Robotics and Automation Letters (RA-L), 2023
+  * IEEE Robotics and Automation Letters (RA-L), 2021
   
