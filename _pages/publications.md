@@ -8,7 +8,7 @@ author_profile: true
 **Yupei Liu**, Yuqi Jia, Runpeng Geng, Jinyuan Jia, and Neil Zhenqiang Gong. "[Prompt Injection Attacks and Defenses in LLM-Integrated Applications](https://arxiv.org/abs/2310.12815)". arXiv 2310.12815, 2023.  [<span style="color:red">[code]</span>](https://github.com/liu00222/Open-Prompt-Injection)
 
 
-Jinyuan Jia\*, **Yupei Liu\***, Yuepeng Hu, and Neil Zhenqiang Gong. "[PORE: Provably Robust Recommender Systems against Data Poisoning Attacks](https://arxiv.org/abs/2303.14601)". In *USENIX Security Symposium*, 2023.  [<span style="color:red">[code]</span>]([https://github.com/jjy1994/BadEncoder](https://github.com/liu00222/PORE-Provably-Robust-Recommender-Systems-against-Data-Poisoning-Attacks))
+Jinyuan Jia\*, **Yupei Liu\***, Yuepeng Hu, and Neil Zhenqiang Gong. "[PORE: Provably Robust Recommender Systems against Data Poisoning Attacks](https://arxiv.org/abs/2303.14601)". In *USENIX Security Symposium*, 2023.  [<span style="color:red">[code]</span>](https://github.com/liu00222/PORE-Provably-Robust-Recommender-Systems-against-Data-Poisoning-Attacks)
 
 
 **Yupei Liu**, Jinyuan Jia, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning](https://arxiv.org/pdf/2201.05889.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2022.
