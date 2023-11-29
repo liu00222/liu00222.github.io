@@ -10,13 +10,13 @@ Professional Service
 * Program Committee member:
   * AAAI Conference on Artificial Intelligence, 2024
  
-* Reviewer:
+* Conference Reviewer:
   * IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024
   * International Conference on Robotics and Automation (ICRA), 2024
-  * IEEE Robotics and Automation Letters (RA-L), 2023
   * NeurIPS Latin X in AI Workshop, 2023
   * NeurIPS Instruction Workshop, 2023
   * International Conference on Computer Vision (ICCV), 2023
-  * IEEE Robotics and Automation Letters (RA-L), 2022
-  * IEEE Robotics and Automation Letters (RA-L), 2021
   
+* Journal Reviewer:
+  * IEEE Transactions on Dependable and Secure Computing
+  * IEEE Robotics and Automation Letters (RA-L)
