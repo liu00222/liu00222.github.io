@@ -18,5 +18,6 @@ Professional Service
   * International Conference on Computer Vision (ICCV), 2023
   
 * Journal Reviewer:
+  * Journal of Data-centric Machine Learning Research (DMLR)
   * IEEE Transactions on Dependable and Secure Computing
   * IEEE Robotics and Automation Letters (RA-L)
