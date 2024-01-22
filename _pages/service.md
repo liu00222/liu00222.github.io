@@ -12,6 +12,7 @@ Professional Service
   * AAAI Conference on Artificial Intelligence, 2024
  
 * Conference Reviewer:
+  * Asian Conference on Computer Vision (ACCV), 2024
   * European Conference on Computer Vision (ECCV), 2024
   * IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024
   * International Conference on Robotics and Automation (ICRA), 2024
