@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Yupei Liu**, Yuqi Jia, Runpeng Geng, Jinyuan Jia, and Neil Zhenqiang Gong. "[Prompt Injection Attacks and Defenses in LLM-Integrated Applications](https://arxiv.org/abs/2310.12815)". arXiv 2310.12815, 2023.  [<span style="color:red">[code]</span>](https://github.com/liu00222/Open-Prompt-Injection)
+**Yupei Liu**, Yuqi Jia, Runpeng Geng, Jinyuan Jia, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.  [<span style="color:red">[code]</span>](https://github.com/liu00222/Open-Prompt-Injection)
 
 
 Jinyuan Jia\*, **Yupei Liu\***, Yuepeng Hu, and Neil Zhenqiang Gong. "[PORE: Provably Robust Recommender Systems against Data Poisoning Attacks](https://arxiv.org/abs/2303.14601)". In *USENIX Security Symposium*, 2023.  [<span style="color:red">[code]</span>](https://github.com/liu00222/PORE-Provably-Robust-Recommender-Systems-against-Data-Poisoning-Attacks)
