@@ -12,7 +12,8 @@ author_profile: true
 **Yupei Liu**, Yanting Wang, and Jinyuan Jia. "TrojanDec: Data-free Detection of Trojan Testing Inputs in Self-supervised Learning". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
 
 
-**Yupei Liu**, Yuqi Jia, Runpeng Geng, Jinyuan Jia, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.  [<span style="color:red">[code]</span>](https://github.com/liu00222/Open-Prompt-Injection)
+**Yupei Liu**, Yuqi Jia, Runpeng Geng, Jinyuan Jia, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.  [<span style="color:red">[video]</span>](https://www.youtube.com/watch?v=ymVcsf2s_OY) 
+ [<span style="color:red">[code]</span>](https://github.com/liu00222/Open-Prompt-Injection)
 
 
 Jinyuan Jia\*, **Yupei Liu\***, Yuepeng Hu, and Neil Zhenqiang Gong. "[PORE: Provably Robust Recommender Systems against Data Poisoning Attacks](https://arxiv.org/abs/2303.14601)". In *USENIX Security Symposium*, 2023.  [<span style="color:red">[code]</span>](https://github.com/liu00222/PORE-Provably-Robust-Recommender-Systems-against-Data-Poisoning-Attacks)
