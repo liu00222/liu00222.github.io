@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**Yupei Liu**, Yuqi Jia, Jinyuan Jia, and Neil Zhenqiang Gong. "[Evaluating Large Language Model based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291)". In *USENIX Security Symposium*, 2025.
+**Yupei Liu**, Yuqi Jia, Jinyuan Jia, and Neil Zhenqiang Gong. "[Evaluating Large Language Model based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291)". In *USENIX Security Symposium*, 2025.  [<span style="color:red">[code]</span>](https://github.com/liu00222/LLM-Based-Personal-Profile-Extraction)
 
 
 **Yupei Liu**, Yanting Wang, and Jinyuan Jia. "TrojanDec: Data-free Detection of Trojan Testing Inputs in Self-supervised Learning". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
