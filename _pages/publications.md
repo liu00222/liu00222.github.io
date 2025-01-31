@@ -11,7 +11,8 @@ author_profile: true
 
 **Yupei Liu**, Yanting Wang, and Jinyuan Jia. "TrojanDec: Data-free Detection of Trojan Testing Inputs in Self-supervised Learning". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
 
-Lingyu Du, **Yupei Liu**, Jinyuan Jia, Guohao Lan. "SecureGaze: Defending Gaze Estimation Against Backdoor Attacks". In *Conference on Embedded Networked Sensor Systems (SenSys)*, 2025
+
+Lingyu Du, **Yupei Liu**, Jinyuan Jia, and Guohao Lan. "SecureGaze: Defending Gaze Estimation Against Backdoor Attacks". In *Conference on Embedded Networked Sensor Systems (SenSys)*, 2025
 
 
 **Yupei Liu**, Yuqi Jia, Runpeng Geng, Jinyuan Jia, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.  [<span style="color:red">[video]</span>](https://www.youtube.com/watch?v=ymVcsf2s_OY) 
