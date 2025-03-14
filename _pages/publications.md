@@ -6,13 +6,17 @@ author_profile: true
 ---
 
 
-**Yupei Liu**, Yuqi Jia, Jinyuan Jia, and Neil Zhenqiang Gong. "[Evaluating Large Language Model based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291)". In *USENIX Security Symposium*, 2025.  [<span style="color:red">[code]</span>](https://github.com/liu00222/LLM-Based-Personal-Profile-Extraction)
+
+**Yupei Liu**, Yuqi Jia, Jinyuan Jia, Dawn Song, and Neil Zhenqiang Gong. "DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2025. 
 
 
-**Yupei Liu**, Yanting Wang, and Jinyuan Jia. "TrojanDec: Data-free Detection of Trojan Testing Inputs in Self-supervised Learning". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
+**Yupei Liu**, Yuqi Jia, Jinyuan Jia, and Neil Zhenqiang Gong. "[Evaluating Large Language Model based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291)". In *USENIX Security Symposium*, 2025.  [<span style="color:red">[code]</span>](https://zenodo.org/records/14737200)
 
 
-Lingyu Du, **Yupei Liu**, Jinyuan Jia, and Guohao Lan. "SecureGaze: Defending Gaze Estimation Against Backdoor Attacks". In *Conference on Embedded Networked Sensor Systems (SenSys)*, 2025
+**Yupei Liu**, Yanting Wang, and Jinyuan Jia. "[TrojanDec: Data-free Detection of Trojan Testing Inputs in Self-supervised Learning](https://arxiv.org/pdf/2501.04108)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
+
+
+Lingyu Du, **Yupei Liu**, Jinyuan Jia, and Guohao Lan. "[SecureGaze: Defending Gaze Estimation Against Backdoor Attacks](https://arxiv.org/pdf/2502.20306?)". In *Conference on Embedded Networked Sensor Systems (SenSys)*, 2025
 
 
 **Yupei Liu**, Yuqi Jia, Runpeng Geng, Jinyuan Jia, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.  [<span style="color:red">[video]</span>](https://www.youtube.com/watch?v=ymVcsf2s_OY) 
