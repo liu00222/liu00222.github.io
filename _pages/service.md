@@ -13,7 +13,8 @@ Professional Service
   * AAAI Conference on Artificial Intelligence, 2024
  
 * Conference Reviewer:
-  * International AAAI Conference on Web and Social Media (ICWSM)
+  * International Conference on Computer Vision (ICCV), 2025
+  * International AAAI Conference on Web and Social Media (ICWSM), 2024, 2025
   * ICML AI4Science workshop, 2024
   * Asian Conference on Computer Vision (ACCV), 2024
   * European Conference on Computer Vision (ECCV), 2024
