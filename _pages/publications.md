@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-**Yupei Liu**, Yuqi Jia, Jinyuan Jia, Dawn Song, and Neil Zhenqiang Gong. "DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2025. 
+**Yupei Liu**, Yuqi Jia, Jinyuan Jia, Dawn Song, and Neil Zhenqiang Gong. "[DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks](https://arxiv.org/pdf/2504.11358)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2025. 
 
 
 **Yupei Liu**, Yuqi Jia, Jinyuan Jia, and Neil Zhenqiang Gong. "[Evaluating Large Language Model based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291)". In *USENIX Security Symposium*, 2025.  [<span style="color:red">[code]</span>](https://zenodo.org/records/14737200)
