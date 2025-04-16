@@ -13,7 +13,7 @@ author_profile: true
 Lingyu Du, **Yupei Liu**, Jinyuan Jia, and Guohao Lan. "[SecureGaze: Defending Gaze Estimation Against Backdoor Attacks](https://arxiv.org/pdf/2502.20306?)". In *Conference on Embedded Networked Sensor Systems (SenSys)*, 2025. [<span style="color:red">[code]</span>](https://github.com/LingyuDu/SecureGaze)
 
 
-**Yupei Liu**, Yuqi Jia, Jinyuan Jia, and Neil Zhenqiang Gong. "[Evaluating Large Language Model based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291)". In *USENIX Security Symposium*, 2025.  [<span style="color:red">[code]</span>](https://zenodo.org/records/14737200)
+**Yupei Liu**, Yuqi Jia, Jinyuan Jia, and Neil Zhenqiang Gong. "[Evaluating LLM-based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291)". In *USENIX Security Symposium*, 2025.  [<span style="color:red">[code]</span>](https://zenodo.org/records/14737200)
 
 
 **Yupei Liu**, Yanting Wang, and Jinyuan Jia. "[TrojanDec: Data-free Detection of Trojan Testing Inputs in Self-supervised Learning](https://arxiv.org/pdf/2501.04108)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
