@@ -8,6 +8,7 @@ author_profile: true
 Professional
 ======
 * Software Engineer at MathWorks, 2022 - Present
+  
   * Developing andmaintainingsecurity foundationlibraries and tools;
   * Guiding teams in the adoption of Secure Development activities including Threat Modeling, Security Architecture review, Static/dynamic analysis, and Training;
   * Providing application security expertiseto supportvulnerabilityresponseprocess;
