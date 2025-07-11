@@ -11,7 +11,7 @@ Professional
   
   * Developing andmaintainingsecurity foundationlibraries and tools;
   * Guiding teams in the adoption of Secure Development activities including Threat Modeling, Security Architecture review, Static/dynamic analysis, and Training;
-  * Providing application security expertiseto supportvulnerabilityresponseprocess;
+  * Providing application security expertise to support vulnerability response process;
   * Participating in planning and architecture sessions with engineering management, architects, operations, and development team leads;
 
 Education
