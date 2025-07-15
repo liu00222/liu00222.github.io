@@ -8,8 +8,9 @@ author_profile: true
 Professional Service
 ======
 * Program Committee member:
+  * USENIX Security Symposium 2026
   * The ACM Conference on Computer and Communications Security (CCS), 2025
-  * USENIX Security Symposium 2025 Artifact Evaluation
+  * USENIX Security Symposium Artifact Evaluation 2025
   * Deep Learning Security and Privacy Workshop (co-located with the 45th IEEE Symposium on Security and Privacy), 2024
   * AAAI Conference on Artificial Intelligence, 2024
  
