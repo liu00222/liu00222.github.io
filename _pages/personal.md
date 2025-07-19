@@ -7,18 +7,27 @@ author_profile: true
 
 I like to play the acoustic guitar and bass. 
 
-[My acoustic covers:](https://liu00222.notion.site/Personal-Interest-adf45ae5b64d49c8a58a09b23517e35f?pvs=4)
+My acoustic covers:
 
 <audio controls>
-  <source src="/assets/cover_1.m4a" type="audio/mp4">
+  <source src="/assets/3.m4a" type="audio/mp4">
   Your browser does not support the audio element.
 </audio>
-(因为你)
+(小小虫)
 
 
 
 <audio controls>
-  <source src="/assets/cover_2.m4a" type="audio/mp4">
+  <source src="/assets/4.m4a" type="audio/mp4">
   Your browser does not support the audio element.
 </audio>
-(Nothing to say)
+(爱我别走)
+
+
+
+
+<audio controls>
+  <source src="/assets/5.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+(孤独患者)
