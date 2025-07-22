@@ -9,12 +9,14 @@ Professional Service
 ======
 * Program Committee member:
   * USENIX Security Symposium 2026
+  * AAAI Conference on Artificial Intelligence, 2026
   * The ACM Conference on Computer and Communications Security (CCS), 2025
   * USENIX Security Symposium Artifact Evaluation 2025
   * Deep Learning Security and Privacy Workshop (co-located with the 45th IEEE Symposium on Security and Privacy), 2024
   * AAAI Conference on Artificial Intelligence, 2024
  
 * Conference Reviewer:
+  * ICML AI4Science workshop, 2025
   * International Conference on Computer Vision (ICCV), 2025
   * International AAAI Conference on Web and Social Media (ICWSM), 2024, 2025
   * ICML AI4Science workshop, 2024
