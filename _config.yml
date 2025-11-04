@@ -86,8 +86,8 @@ author:
   location         : "Natick, MA, US"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=52VEwW8AAAAJ"
-  email            : liu00222115020256@outlook.com
+  googlescholar    : 
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
