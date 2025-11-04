@@ -12,8 +12,6 @@ Professional
 Education
 ======
 * M.S. in Computer Science, Duke University, 2020 - 2022
-  * Research Project: [StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning](https://arxiv.org/pdf/2201.05889.pdf)
-  * Committee Members: [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) (Committee Chair), [Miroslav Pajic](https://cpsl.pratt.duke.edu/people/miroslav-pajic-phd), [Xiaowei Yang](https://users.cs.duke.edu/~xwy/)
 * B.A. in Computer Science, University of Minnesota, Twin Cities, 2017 - 2020
 * B.S. in Statistical Science, University of Minnesota, Twin Cities, 2017 - 2020
 
@@ -27,7 +25,7 @@ Awards
   
 Skills
 ======
-* C/C++, Python (Pytorch), Java, OpenSSL
+* C/C++, Python, Java
   
 Teaching
 ======
