@@ -17,6 +17,8 @@ Education
 
 Awards
 ======
+* Distinguished Paper Award (IEEE S \& P, 2025)
+* Dean's Research Award (Duke University, 2021)
 * Buehler Memorial Undergraduate Award (UMN, 2020)
 * Graduation with High Distinction (UMN, 2020)
 * Dean's List (UMN, 2017-2020)
