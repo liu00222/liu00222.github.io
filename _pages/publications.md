@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
+Yuqi Jia, **Yupei Liu**, Zedian Shao, Jinyuan Jia, and Neil Zhenqiang Gong. "PromptLocate: Localizing Prompt Injection Attacks". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2026.  [<span style="color:red">[code]</span>](https://github.com/liu00222/Open-Prompt-Injection)
 
 
 **Yupei Liu**, Yuqi Jia, Jinyuan Jia, Dawn Song, and Neil Zhenqiang Gong. "[DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks](https://arxiv.org/pdf/2504.11358)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2025.  [<span style="color:red">[Distinguished Paper Award]</span>](https://sp2025.ieee-security.org/awards.html)  [<span style="color:red">[code]</span>](https://github.com/liu00222/Open-Prompt-Injection)
