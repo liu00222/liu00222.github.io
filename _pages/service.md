@@ -8,6 +8,8 @@ author_profile: true
 Professional Service
 ======
 * Program Committee member:
+  * AAAI 2027 AI Alignment Track (Senior PC member)
+  * AAAI Conference on Artificial Intelligence, 2027
   * The ACM Conference on Computer and Communications Security (CCS), 2026
   * USENIX Security Symposium 2026
   * AAAI Conference on Artificial Intelligence, 2026
