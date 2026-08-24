@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+**Yupei Liu**, Yuqi Jia, Neil Zhenqiang Gong, and Jinyuan Jia. "LongPIBench: A Long-Context Benchmark for Prompt Injection". In *Findings of EMNLP*, 2026.
+
+
 Yuqi Jia, **Yupei Liu**, Zedian Shao, Jinyuan Jia, and Neil Zhenqiang Gong. "PromptLocate: Localizing Prompt Injection Attacks". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2026.  [<span style="color:red">[code]</span>](https://github.com/liu00222/Open-Prompt-Injection)
 
 
