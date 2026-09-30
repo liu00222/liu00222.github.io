@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Senior Software Engineer at [MathWorks](https://www.mathworks.com/). 
+I am currently a Senior Software Engineer at [MathWorks](https://www.mathworks.com/) in Security Engineering. 
 
 I received the M.S. in Computer Science from Duke University in 2022. My advisor is [Dr. Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) and I have worked closely with [Dr. Jinyuan Jia](https://jinyuan-jia.github.io/) on research projects related to trustworthy machine learning, including security & privacy of AI, LLM security, and foundation model security. I also worked in Cyber-Physical Systems Lab supervised by [Dr. Miroslav Pajic](https://people.duke.edu/~mp275/) in projects involving autonomous vehicles safety. In 2021, I received the Dean's Research Award for Master's students. In 2025, my first-authored paper "DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks" received IEEE S\&P Distinguished Paper Award. 
 
